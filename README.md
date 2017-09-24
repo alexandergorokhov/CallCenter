@@ -2,7 +2,7 @@
 
 Concurrent Callcenter.
 
-![Class diagramm documentaiton] https://docs.google.com/document/d/1Px5DvAmOJSTQlFmLHYRzxMnVuGb16lkx5V_VSkSMslY/edit?usp=sharing
+Class diagramm documentaiton https://docs.google.com/document/d/1Px5DvAmOJSTQlFmLHYRzxMnVuGb16lkx5V_VSkSMslY/edit?usp=sharing
 
 ### Prerequisites
 
@@ -15,8 +15,6 @@ Java 1.8
 
 mvn clean install
 
-
-![Class diagramm documentaiton] https://docs.google.com/document/d/1Px5DvAmOJSTQlFmLHYRzxMnVuGb16lkx5V_VSkSMslY/edit?usp=sharing
 ## Running the tests
 
 The main requirement tests are run by default with maven, or you can run it from your prefered IDE with JUNIT.
