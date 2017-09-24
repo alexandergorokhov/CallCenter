@@ -16,6 +16,7 @@ Java 1.8
 mvn clean install
 
 ## Running the tests
+Main class Application.java.
 
 The main requirement tests are run by default with maven, or you can run it from your prefered IDE with JUNIT.
 For quicker build you can disable run tests from maven pom.
