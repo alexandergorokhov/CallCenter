@@ -4,8 +4,6 @@ Concurrent Callcenter.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 ```
 Maven 3
 Java 1.8
@@ -35,8 +33,5 @@ Keep in mind since this is a multi thread application, prerequisite are importan
 
 * **Alexander Gorokhov**
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
