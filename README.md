@@ -13,6 +13,9 @@ Java 1.8
 
 mvn clean install
 
+##Class diagramm
+
+![alt tag](https://docs.google.com/document/d/1Px5DvAmOJSTQlFmLHYRzxMnVuGb16lkx5V_VSkSMslY/edit)
 ## Running the tests
 
 The main requirement tests are run by default with maven, or you can run it from your prefered IDE with JUNIT.
