@@ -6,6 +6,11 @@ public class Application {
     public static Dispacher disp=Dispacher.getDispacher();
 
     public static void main(String[] args){
+        demoPlay();
+
+    }
+
+    private static void demoPlay() {
         disp.setDirectors(1);
         disp.setSupervisors(4);
         disp.setOperators(5);
@@ -23,6 +28,5 @@ public class Application {
         }
         disp.terminateAfterLastCall();
         threadPool.shutdown();
-
     }
 }
